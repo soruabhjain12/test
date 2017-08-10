@@ -14,3 +14,6 @@ Cron test 3
 
 
 cron with test in /etc/init.d
+
+
+cron test with fork once again
