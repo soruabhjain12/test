@@ -11,3 +11,6 @@ cron test2
 
 
 Cron test 3
+
+
+cron with test in /etc/init.d
