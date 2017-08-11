@@ -21,3 +21,6 @@ cron test with fork once again
 cron test second time
 
 Day thre test
+
+full day test
+
